@@ -1,4 +1,4 @@
-Armacoin GZM BEP-20 Implementation
+# Armacoin GZM BEP-20 Implementation
 
 
 Install dependencies
